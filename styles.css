@@ -1,0 +1,40 @@
+#hero-card-container {
+  width: 50vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  display: flex;
+}
+.title h3 {
+  padding: 10px;
+  font-size: 2em;
+}
+.hero-role {
+  /* vertical-align: super; */
+  margin-bottom: 20px;
+  color: rgb(62, 62, 104);
+}
+h3, h4 {
+  text-align: center;
+}
+.passive {
+  text-align: center;
+}
+.card-img-box{
+  width: 200px;
+}
+.card-img-box img {
+  width: 100%;
+  height: 100%;
+}
+.skills-box {
+  display: flex;
+
+}
+.skill {
+  padding: 20px;
+}

@@ -1,0 +1,19 @@
+ideas.txt
+
+if you answer the question correctly, you get an action in the combo.
+goal is to teach the combo
+
+login screen:
+choose your login name from list
+password just takes the correct keystroke ignores incorrect (so it feels like hacking)
+
+ineedanew.ai:  a series of questions intended to help you make the right decision, risk free.  
+ineedanew.com/puter.html:  SCREEN FITS, longway always.  
+
+node security:
+host on github a series of websites with a string of my choosing
+nodebox each site is screenshotted/scraped for the code, if it matches
+bingo 
+not all of you will make it
+
+CENSUSMAN
